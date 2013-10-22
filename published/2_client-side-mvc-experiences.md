@@ -37,11 +37,11 @@ I really wanted to take what I had done and push it further. I just knew that I'
 
 ## Hello Backbone.js
 
-After surveying the landscape during these current times, I finally landed on Backbone.js. It seemed that it was pretty easy to start with, there were plenty of folks using it, which meant I could find plenty of help/answers if I got stuck.
+After surveying the landscape during these current times, I finally landed on [Backbone.js](http://backbonejs.org/). It seemed that it was pretty easy to start with, there were plenty of folks using it, which meant I could find plenty of help/answers if I got stuck.
 
-Backbone.js on its own was great! It provided the concept of a model, controller, and also played nicely with another wonderful library that'd I'd used already, Handlebars.js. I loved having some sort of, for lack of better term, "backbone" to my application. That being the case, it still felt as though there was a lot that architecturally needed to be figured out.
+Backbone.js on its own was great! It provided the concept of a model, controller, and also played nicely with another wonderful library that'd I'd used already, [Handlebars.js](http://handlebarsjs.com/). I loved having some sort of, for lack of better term, "backbone" to my application. That being the case, it still felt as though there was a lot that architecturally needed to be figured out.
 
-Doing some more research, I found another library called Marionette.js. There were a few Backbone.js app examples that used Marionette.js to help simplify the creation of larger-scale applications. After going through some examples, I felt the perfect combination had been found in Handlebars.js + Backbone.js + Marionette.js.
+Doing some more research, I found another library called [Marionette.js](http://marionettejs.com/). There were a few Backbone.js app examples that used Marionette.js to help simplify the creation of larger-scale applications. After going through some examples, I felt the perfect combination had been found in Handlebars.js + Backbone.js + Marionette.js.
 
 ## Handlebars.js + Backbone.js + Marionette.js worked wonders
 
@@ -51,7 +51,7 @@ I couldn't have asked for a better opportunity than the one that had presented i
 
 If there's one thing constant in our industry, it is change. Once again, a project came through that would give me the opportunity to consider using a client-side MVC framework. Since I'd had experience using Handlebars.js + Backbone.js + Marionette.js, I felt the decision upon what frameworks/libraries to use was a given.
 
-At the same time, though, I couldn't help but be curious about some other frameworks that had joined in on the fun. Such names as AngularJS and Ember.js started flirting with my curiousity. At one point, this page titled [Top JavaScript MVC Frameworks](http://www.infoq.com/research/top-javascript-mvc-frameworks) landed in front of me. This helped me whittle down some of the options out there so I could at least focus on a few, if I indeed wanted to pursue this.
+At the same time, though, I couldn't help but be curious about some other frameworks that had joined in on the fun. Such names as [AngularJS](http://angularjs.org/) and [Ember.js](http://emberjs.com/) started flirting with my curiousity. At one point, this page titled [Top JavaScript MVC Frameworks](http://www.infoq.com/research/top-javascript-mvc-frameworks) landed in front of me. This helped me whittle down some of the options out there so I could at least focus on a few, if I indeed wanted to pursue this.
 
 ## Learn something new again, yes, that's where the fun is
 
